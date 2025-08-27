@@ -1,2 +1,16 @@
-# README
-haceer la tarea de canvas
+# THE UBER GAME
+
+
+
+“The Uber Game” de The Financial Times en el Reino Unido,  juego interactivo en línea que simula la vida de un conductor de Uber en California durante una jornada completa. La dinámica consiste en ponerte en la piel de un trabajador que debe tomar decisiones, como si ayudar a su hijo con la tarea, aceptar o no ciertos viajes, o elegir pagar entre un cargador o datos móviles. 
+
+Este juego está basado en un reportaje real del Financial Times, hecho por Leslie Hook https://www.ft.com/content/c9a8b592-a81d-11e7-ab55-27219df83c97 que incluye decenas de entrevistas con conductores de Uber en San Francisco y datos recopilados como: Tarifas promedio por hora, número promedio de viajes por hora, costos de arriendo del auto, costos de combustible, etc.
+
+Según comentó The Financial Times, “The Uber Game” se realizó con el propósito de explorar nuevas formas para ayudar a las personas entender emocionalmente un concepto complejo. “Esperamos que, al pedirle al jugador que tome decisiones significativas como conductor de Uber, podamos cambiar su perspectiva. Quizás, al crear un juego, podamos despertar su curiosidad y motivarlo a examinar críticamente las limitaciones y sesgos de sistemas como Uber y otras plataformas de la economía colaborativa”, explicaron sus creadores al medio Source
+
+
+
+Si bien es distinto y sale del esquema convencional de webstories, lo interesante es que,  en vez de dar la respuesta rápida al lector sobre los datos financieros de los Ubers u otros experimentos de periodismo interactivo, este juego no entrega de inmediato la información dura. No se limita a mostrar un gráfico sobre ingresos y egresos, ni a resumir con estadísticas generales. En cambio, involucra al usuario en una dinámica lúdica que dura unos diez minutos, durante los cuales cada decisión cuenta y cada error se paga. Solo al final, se revelan los datos comparativos: cuánto lograste ganar en relación con otros jugadores, cuáles fueron tus gastos y qué tan sostenible resultó tu esfuerzo. De esta manera, la información se vuelve más memorable y significativa.
+En ese sentido, “The Uber Game” es un ejemplo exitoso de cómo el periodismo digital puede reinventarse para conectar con audiencias saturadas de información. La experiencia combina elementos de reportaje, videojuego y storytelling interactivo, lo que lo convierte en un producto innovador. No solo transmite datos, sino que también hace sentir al jugador la incertidumbre y la vulnerabilidad que experimentan los trabajadores de aplicaciones.
+Además, este tipo de iniciativas abre la puerta a que otros medios experimenten con narrativas similares, ampliando la manera en que las audiencias consumen noticias y se relacionan con temas de impacto social.
+Así, más que un simple juego, “The Uber Game” es una propuesta que muestra hacia dónde podría avanzar el periodismo, demostrando que leer un artículo lleno de cifras puede resultar distante, y explorando que vivir la experiencia a través de decisiones interactivas puede genera una conexión distinta y mayor retención de la información: uno al jugar siente los problemas, los sacrificios y los complejos económicos, aunque sea de manera virtual. Esta dimensión emocional es clave para entender la precariedad que atraviesan muchos trabajadores en la economía digital.
