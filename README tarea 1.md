@@ -2,7 +2,7 @@
 
 
 
-“The Uber Game” de The Financial Times en el Reino Unido,  juego interactivo en línea que simula la vida de un conductor de Uber en California durante una jornada completa. La dinámica consiste en ponerte en la piel de un trabajador que debe tomar decisiones, como si ayudar a su hijo con la tarea, aceptar o no ciertos viajes, o elegir pagar entre un cargador o datos móviles. 
+“The Uber Game” de  Financial Times en el Reino Unido, es juego interactivo en línea que simula la vida de un conductor de Uber en California durante una jornada completa. La dinámica consiste en ponerte en la piel de un trabajador que debe tomar decisiones, como si ayudar a su hijo con la tarea, aceptar o no ciertos viajes, o elegir pagar entre un cargador o datos móviles. 
 
 Este juego está basado en un reportaje real del Financial Times, hecho por Leslie Hook https://www.ft.com/content/c9a8b592-a81d-11e7-ab55-27219df83c97 que incluye decenas de entrevistas con conductores de Uber en San Francisco y datos recopilados como: Tarifas promedio por hora, número promedio de viajes por hora, costos de arriendo del auto, costos de combustible, etc.
 
